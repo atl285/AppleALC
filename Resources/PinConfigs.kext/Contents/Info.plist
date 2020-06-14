@@ -6735,17 +6735,17 @@
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
-					<string>(null) by atl</string>
+					<string>ALC892 - G4mod by ATL</string>
 					<key>CodecID</key>
 					<integer>283904146</integer>
 					<key>ConfigData</key>
 					<data>
 					AUccEAFHHUEBRx4BAUcfAQFHDAIBVxwgAVcd
 					EAFXHgEBVx8BAWccMAFnHWABZx4BAWcfAQGH
-					HEABhx2QAYceoAGHH5ABpxxQAacdMAGnHoEB
-					px8BAZcc8AGXHQABlx6AAZcfQAG3HHABtx0B
-					AbceEAG3H5ABtwwCAecckAHnHWEB5x5LAecf
-					AQF3HPABdx0AAXceAAF3H0AB9xzwAfcdAAH3
+					HEABhx2QAYceoQGHH4EBpxxQAacdMAGnHoEB
+					px8BAbcccAG3HQEBtx4QAbcfkAG3DAIB5xyQ
+					AecdYQHnHksB5x8BAZcc8AGXHQABlx6AAZcf
+					QAF3HPABdx0AAXceAAF3H0AB9xzwAfcdAAH3
 					HgAB9x9AARcc8AEXHQABFx4AARcfQA==
 					</data>
 					<key>FuncGroup</key>
@@ -6754,8 +6754,8 @@
 					<integer>1</integer>
 					<key>WakeConfigData</key>
 					<data>
-					AUcMAgFXDAABZwwAAYcMAAGnDAABlwwAAbcM
-					AgHnDAABdwwAAfcMAAEXDAA=
+					AUcMAgFXDAABZwwAAYcMAAGnDAABtwwCAecM
+					AAGXDAABdwwAAfcMAAEXDAA=
 					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
