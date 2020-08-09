@@ -8513,18 +8513,18 @@
 				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>ALC1220A - G4mod by ATL</string>
 					<key>CodecID</key>
 					<integer>283906408</integer>
-					<key>CodecName</key>
-					<string>Toleda -  Realtek ALC S1220A</string>
 					<key>ConfigData</key>
 					<data>
-					AUccEAFHHUABRx4RAUcfkAFHDAIBVxwgAVcd
-					EAFXHgEBVx8BAWccMAFnHWABZx4BAWcfAQF3
-					HPABdx0AAXceAAF3H0ABhxxAAYcdkAGHHqAB
-					hx+QAZccYAGXHZABlx6BAZcfAgGnHFABpx0w
-					AacegQGnHwEBtxxwAbcdQAG3HiEBtx8CAbcM
-					AgHnHJAB5x1hAeceSwHnHwEB9xzwAfcdAAH3
+					AUccEAFHHUABRx4BAUcfEQFHDAIBVxwgAVcd
+					EAFXHgEBVx8BAWccMAFnHWABZx4BAWcfAQGH
+					HEABhx2QAYceoAGHH5ABpxxQAacdMAGnHoEB
+					px8BAZccYAGXHYIBlx4BAZcfAQG3HHABtx0g
+					AbceEQG3H5ABtwwCAecckAHnHWEB5x5FAecf
+					AQF3HPABdx0AAXceAAF3H0AB9xzwAfcdAAH3
 					HgAB9x9AARcc8AEXHQABFx4AARcfQA==
 					</data>
 					<key>FuncGroup</key>
@@ -8532,7 +8532,10 @@
 					<key>LayoutID</key>
 					<integer>1</integer>
 					<key>WakeConfigData</key>
-					<data>AUcMAg==</data>
+					<data>
+					AUcMAgFXDAABZwwAAYcMAAGnDAABlwwAAbcM
+					AgHnDAABdwwAAfcMAAEXDAA=
+					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
