@@ -7367,26 +7367,29 @@
 				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
+					<key>Codec</key>
+					<string>ALC892 - G5mod by ATL</string>
 					<key>CodecID</key>
 					<integer>283904146</integer>
-					<key>Comment</key>
-					<string>ALC892, Toleda</string>
 					<key>ConfigData</key>
 					<data>
-					IUccECFHHUAhRx4RIUcfkCFHDAIhVxzwIVcd
-					ACFXHgAhVx9AIWcc8CFnHQAhZx4AIWcfQCF3
-					HPAhdx0AIXceACF3H0AhhxxAIYcdYCGHHgEh
-					hx8BIZccYCGXHZAhlx6gIZcfkCGnHFAhpx0Q
-					IaceASGnHwEhtxxwIbcdQCG3HiEhtx8CIbcM
-					AiHnHJAh5x1hIeceSyHnHwEh9xzwIfcdACH3
-					HgAh9x9AIRcc8CEXHQAhFx4AIRcfQA==
+					AUccEAFHHUABRx4BAUcfAQFHDAIBhxxAAYcd
+					kwGHHqEBhx8BAaccUAGnHQABpx6AAacfQAGX
+					HGABlx2QAZceIQGXHwIBtxxwAbcdQAG3HhAB
+					tx+QAbcMAgHnHJAB5x1hAeceSwHnHwEBVxzw
+					AVcdEAFXHgEBVx8BAWcc8AFnHQABZx4AAWcf
+					QAF3HPABdx0gAXcegQF3HwEB9xzwAfcdAAH3
+					HgAB9x9AARcc8AEXHQABFx4AARcfQA==
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>2</integer>
 					<key>WakeConfigData</key>
-					<data>AUcMAg==</data>
+					<data>
+					AUcMAgGHDAABpwwAAZcMAAG3DAIB5wwAAVcM
+					AAFnDAABdwwAAfcMAAEXDAA=
+					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
